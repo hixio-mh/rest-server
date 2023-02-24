@@ -16,8 +16,7 @@ require (
 	github.com/spf13/cobra v0.0.1
 	github.com/spf13/pflag v1.0.0 // indirect
 	goji.io v2.0.2+incompatible
-	golang.org/x/crypto v0.0.0-20180214000028-650f4a345ab4
-	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a // indirect
+	golang.org/x/crypto v0.1.0
 )
 
 replace goji.io v2.0.0+incompatible => github.com/goji/goji v2.0.0+incompatible
